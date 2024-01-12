@@ -28,6 +28,12 @@ ${renderLicenseBadge(data.license)}
 ${renderLicenseLink()}
 ## Description
 ${data.description}
+## Table of Contents
+1. Installation.
+2. Usage.
+3. Contributing.
+4. Tests.
+5. License.
 ## Installation
 ${data.installation}
 ## Usage
@@ -36,7 +42,7 @@ ${data.usage}
 ${data.contributing}
 ## Tests
 ${data.tests}
-${renderLicenseSection()}
+${renderLicenseSection(data.license)}
 `;
 };
 

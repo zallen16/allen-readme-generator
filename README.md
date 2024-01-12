@@ -1,1 +1,0 @@
-# allen-readme-generator
