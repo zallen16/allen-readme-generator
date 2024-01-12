@@ -29,19 +29,29 @@ ${renderLicenseLink()}
 ## Description
 ${data.description}
 ## Table of Contents
-1. Installation.
-2. Usage.
-3. Contributing.
-4. Tests.
-5. License.
+[1. Installation.](#installation)
+[2. Usage.](#usage)
+[3. Contributing.](#contributing)
+[4. Tests.](#tests)
+[5. License.](#license)
+
+<a name="installation"></a>
 ## Installation
 ${data.installation}
+
+<a name="usage"></a>
 ## Usage
 ${data.usage}
+
+<a name="contributing"></a>
 ## Contributing
 ${data.contributing}
+
+<a name="tests"></a>
 ## Tests
 ${data.tests}
+
+<a name="license"></a>
 ${renderLicenseSection(data.license)}
 `;
 };
