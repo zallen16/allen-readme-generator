@@ -1,8 +1,8 @@
-# project three
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/MIT)
+# Readme project
+[![License](https://img.shields.io/badge/License-ISC-green.svg)](https://choosealicense.com/licenses/ISC)
 [License](#License)
 ## Description
-to make a rpoject three
+to create a readme!!
 ## Table of Contents
 [1. Installation.](#installation)
 [2. Usage.](#usage)
@@ -13,19 +13,19 @@ to make a rpoject three
 
 <a name="installation"></a>
 ## Installation
-now
+inquirer
 
 <a name="usage"></a>
 ## Usage
-all of them
+javascript
 
 <a name="contributing"></a>
 ## Contributing
-everyone
+everyone contribute
 
 <a name="tests"></a>
 ## Tests
-no
+assembly
 
 <a name="license"></a>
 ## License
