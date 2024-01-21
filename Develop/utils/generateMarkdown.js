@@ -34,6 +34,7 @@ ${data.description}
 [3. Contributing.](#contributing)
 [4. Tests.](#tests)
 [5. License.](#license)
+[6. Questions.](#questions)
 
 <a name="installation"></a>
 ## Installation
@@ -53,6 +54,11 @@ ${data.tests}
 
 <a name="license"></a>
 ${renderLicenseSection(data.license)}
+
+<a name="questions"></a>
+## Questions 
+Github Repository: https://github.com/zallen16 <br>
+Email: zach.zsa.allen@gmail.com
 `;
 };
 

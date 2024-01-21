@@ -1,8 +1,8 @@
-# hi
-[![License](https://img.shields.io/badge/License-ISC-green.svg)](https://choosealicense.com/licenses/ISC)
+# project three
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/MIT)
 [License](#License)
 ## Description
-yes
+to make a rpoject three
 ## Table of Contents
 [1. Installation.](#installation)
 [2. Usage.](#usage)
@@ -13,23 +13,24 @@ yes
 
 <a name="installation"></a>
 ## Installation
-asdf
+now
 
 <a name="usage"></a>
 ## Usage
-asdf
+all of them
 
 <a name="contributing"></a>
 ## Contributing
-asdf
+everyone
 
 <a name="tests"></a>
 ## Tests
-jfjfjfjfjfa. 
+no
 
 <a name="license"></a>
 ## License
 
 <a name="questions"></a>
-## GitHub repository: https://github.com/zallen16
-## email: zach.zsa.allen@gmail.com
+## Questions 
+Github Repository: https://github.com/zallen16 <br>
+Email: zach.zsa.allen@gmail.com
