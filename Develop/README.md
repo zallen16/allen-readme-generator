@@ -9,6 +9,7 @@ to create a readme
 [3. Contributing.](#contributing)
 [4. Tests.](#tests)
 [5. License.](#license)
+[6. Questions.](#questions)
 
 <a name="installation"></a>
 ## Installation
@@ -28,3 +29,7 @@ assembly
 
 <a name="license"></a>
 ## License
+
+<a name="questions"></a>
+## email: zach.zsa.allen@gmail.com
+## GitHub: https://github.com/zallen16
